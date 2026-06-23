@@ -1,0 +1,7 @@
+# Nunca suba configurações com dados reais da empresa
+Config.gs
+Colunas.gs
+
+# Arquivos do clasp (caso use a CLI do Apps Script)
+.clasp.json
+.clasprc.json
