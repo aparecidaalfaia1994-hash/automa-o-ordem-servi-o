@@ -90,3 +90,6 @@ MIT — sinta-se livre para usar, adaptar e distribuir.
 ---
 
 Desenvolvido para resolver um problema real de operação. Se ajudou você, deixe uma ⭐.
+
+
+Desenvolvido por Aparecida Vieira (https://www.linkedin.com/in/aparecidavalfaia)
